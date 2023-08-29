@@ -1,0 +1,9 @@
+campaignTrail_temp.candidate_image_url = 'https://th.bing.com/th/id/OIP.iKZd2wwjV2YVTWXfL53-EAHaHa?w=179&h=180&c=7&r=0&o=5&pid=1.7';
+campaignTrail_temp.running_mate_image_url = 'https://th.bing.com/th/id/OIP.sdr4z_XWJE0eGO47JHnuBwHaGL?w=207&h=173&c=7&r=0&o=5&pid=1.7';
+campaignTrail_temp.candidate_last_name = 'Grant';
+campaignTrail_temp.running_mate_last_name = 'Colfax';
+campaignTrail_temp.running_mate_state_id = '62';
+campaignTrail_temp.player_answers = [];
+campaignTrail_temp.player_visits = [];
+campaignTrail_temp.answer_feedback_flg = 1;
+campaignTrail_temp.game_start_logging_id = '3668400';
